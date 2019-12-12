@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
+Hello Everyone, I am Ravi Singh, a post graduate in MCA from NIT Jamshedpur. I am an enthusiastic coder and currently working in a Bengaluru based software company ' 3i analtix' as a full stack developer. Along with this I also work as a freelancer in multiple IT based projects. I am comfortable in various languages and platforms like HTML , CSS3 , Python , JavaScript, Django, Flask , AWS, and GitHub etc. I am diligent towards my work and till now I have fulfilled the quality & quantity requirements of the client within (or before) the allocated time. I have the dream to give an online presence to every useful human resource in our society. 
 
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
